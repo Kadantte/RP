@@ -12,7 +12,7 @@
 
 #### Download
 ---
-[<img src="http://svgshare.com/i/28_.svg" width="40%" alt="Download" />](https://github.com/cpa-landing-pages/lol-codes/archive/master.zip)
+[<img src="http://svgshare.com/i/28_.svg" width="40%" alt="Download" />](https://github.com/kadantte/RP/archive/master.zip)
 
 #### How to use
 ---
